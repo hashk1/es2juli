@@ -20,12 +20,6 @@
 # OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 # THE SOFTWARE.
 
-# ユリアーモフォント (Juliamo Font)
-# http://sukerasparo.com/amrilato/sp004/font.html
-# http://uw1.gyutto.jp/sozai/kotonoha_juliamofont.zip
-# This font can only be used for personal purposes.
-# Commercial purposes and redistribution are prohibited.
-
 def usage
   puts "USAGE: crystal es2juli.cr -e [input.txt] (Juliamo to Esperanto)"
   puts "       crystal es2juli.cr -j [input.txt] (Esperanto to Juliamo)"
