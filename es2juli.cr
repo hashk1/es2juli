@@ -149,7 +149,7 @@ def convert(line, option = nil)
     "\u3326", # ㌦
     "\u3349", # ㍉
     "\u3351", # ㍑
-    "\u334a", # ㍊
+    "\u334a"  # ㍊
   ]
 
   es = es_list.join("")
