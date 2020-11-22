@@ -1,12 +1,12 @@
 # es2juli
 
 ## What's this?
-This is a Esperanto-Juliamo characters converter.
-To use Juliamo characters, downloading Juliamo font from official site is needed.
+This is a Esperanto-Juliamo characters converter.  
+To use Juliamo characters, downloading Juliamo font from official site is needed.  
 This source code is written in [crystal](https://crystal-lang.org). 
 
 ## Juliamo font
-Download and install the Juliamo font from [the official download site](http://sukerasparo.com/amrilato/sp004/font.html).  
+Download and install the Juliamo font from [official download site](http://sukerasparo.com/amrilato/sp004/font.html).  
 Unfortunately, this site is supported only Japanese.  
 Please see the official site for detail.  
 
