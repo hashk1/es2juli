@@ -42,19 +42,6 @@ cat [input.txt] | ./es2juli -e
 cat [input.txt] | ./es2juli -j
 ```
 
-Of cause this code works on ruby: `cp es2juli.cr es2juli.rb`, then 
-```
-# Juliamo to Esperanto
-ruby es2juli.rb -e [input.txt] 
-# or 
-cat [input.txt] | ruby es2juli.rb -e
-
-# Esperanto to Juliamo
-ruby es2juli.rb -j [input.txt] 
-# or 
-cat [input.txt] | ruby es2juli.rb -j
-```
-
 ## License
 The source code is licensed MIT.
 
